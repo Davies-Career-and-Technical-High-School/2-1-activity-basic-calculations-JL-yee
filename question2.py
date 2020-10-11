@@ -1,3 +1,5 @@
-f = float(input("Enter temp in Fahrenheit: "))
-c = (f- 32) * 5 / 9
-print("Celsius: " + str(c))
+f = float(input("Enter enter numbers for decimal: "))
+a = float(input("Enter enter numbers for decimal: "))
+b = float(input("Enter enter numbers for decimal: "))
+c = (f + a + b * .5)
+print(c)
